@@ -1,4 +1,4 @@
-baseURL: http://example.com
+baseURL: https://mentalflux.ru
 languageCode: ru-ru
 #theme: photophobia
 theme: hugo-flex
